@@ -1,10 +1,4 @@
-#
-# Official Language File
-# To make your own language file, copy this file and edit the copy
-#
-# Changes made to this file will be reset!
-# Do not edit it!
-#
+#Danish by TheBeast
 
 command.groupAddPermission: "Added permission **%permission%** to **%group%**"
 command.groupAlreadyHasPermission: "The group **%group%** already has the permission **%permission%**"

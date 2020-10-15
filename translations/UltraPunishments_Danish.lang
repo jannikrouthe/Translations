@@ -1,10 +1,4 @@
-#
-# Official Language File
-# To make your own language file, copy this file and edit the copy
-#
-# Changes made to this file will be reset!
-# Do not edit it!
-#
+#Danish by TheBeast
 
 banMessage.local.permanently: "Permanently banned **%player%**"
 banMessage.local.permanentlyReason: "Permanently banned **%player%**, Reason: **%reason%**"
