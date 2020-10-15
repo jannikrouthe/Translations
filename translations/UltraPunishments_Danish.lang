@@ -1,5 +1,3 @@
-#Danish by TheBeast
-
 banMessage.local.permanently: "Permanently banned **%player%**"
 banMessage.local.permanentlyReason: "Permanently banned **%player%**, Reason: **%reason%**"
 banMessage.local.temporary: "Banned **%player%** for **%duration%**"

@@ -1,7 +1,5 @@
-#Danish by TheBeast
-
-command.groupAddPermission: "Added permission **%permission%** to **%group%**"
-command.groupAlreadyHasPermission: "The group **%group%** already has the permission **%permission%**"
+command.groupAddPermission: "Tilføjet permission **%permission%** til **%group%**"
+command.groupAlreadyHasPermission: "Gruppen **%group%** har allerede permission **%permission%**"
 command.groupRemovePermission.successful: "Removed permission **%permission%** from **%target%**"
 command.groupRemovePermission.successfulMultiple: "Removed **count** copies of **%permission%** from **%target%**"
 command.groupRemovePermission.unsuccessful: "Did not find permission **%permission%** for **target**"

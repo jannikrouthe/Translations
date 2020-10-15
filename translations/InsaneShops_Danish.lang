@@ -1,5 +1,3 @@
-#Danish by TheBeast
-
 moneySelectionView.confirm.action: "Click to confirm"
 moneySelectionView.confirm.title: "Confirm"
 moneySelectionView.decrease.action: "**Left Click** to remove **%value%**"
